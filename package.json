@@ -1,0 +1,20 @@
+{
+  "name": "libero-scraping",
+  "version": "1.0.0",
+  "description": "Un API basata sullo scraping dei titoli del sito web del quotidiano Libero",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Raffaele Spataro",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^3.1.0",
+    "user-agents": "^1.0.559",
+    "ejs": "3.1.3"
+  },
+  "devDependencies": {}
+}
