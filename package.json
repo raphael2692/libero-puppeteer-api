@@ -11,7 +11,7 @@
   "author": "Raffaele Spataro",
   "license": "CC-BY-4.0",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "puppeteer": "^3.1.0",
     "user-agents": "^1.0.559",
     "ejs": "3.1.3"
